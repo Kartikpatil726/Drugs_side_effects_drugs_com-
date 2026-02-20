@@ -82,10 +82,24 @@ The objective is to identify:
 
 ---
 
+## 📌  From the analysis of drug review and usage data, the following conclusions were observed:
+
+- Drugs with higher ratings are not always the most frequently used medicines.
+- Over-the-counter (OTC) medicines tend to receive more reviews due to easy availability.
+- Certain drug classes dominate specific medical conditions, showing strong treatment preferences.
+- Pregnancy safety Category **C and B drugs** are prescribed most often, indicating moderate risk acceptance in treatment.
+- Regional drug usage patterns vary, suggesting prescription behavior differs across locations.
+- Popularity of a drug is influenced more by accessibility and condition prevalence than effectiveness alone.
+
+Overall, the project highlights how real-world usage patterns differ from theoretical drug effectiveness and emphasizes the importance of safety and accessibility in medical decision-making.
+
+---
+
 ## 👤 Author
 
 **Kartik Dattatray Patil**
 B.Tech Computer Science Engineering
-📬 **Email:**  kp862420@gmail.com #Side Effects of Drugs
-🔗 https://www.linkedin.com/in/kartik-patil-5389412a0/
+
+* 📬 **Email:**  kp862420@gmail.com  #Side Effects of Drugs
+* 🔗 https://www.linkedin.com/in/kartik-patil-5389412a0/
  
