@@ -101,5 +101,5 @@ Overall, the project highlights how real-world usage patterns differ from theore
 B.Tech Computer Science Engineering
 
 * 📬 **Email:**  kp862420@gmail.com  #Side Effects of Drugs
-* 🔗 https://www.linkedin.com/in/kartik-patil-5389412a0/
+* 🔗 **linkedin**  https://www.linkedin.com/in/kartik-patil-5389412a0/
  
